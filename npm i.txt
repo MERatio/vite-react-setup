@@ -1,0 +1,4 @@
+// Official vite template (I added prettier)
+npm i react react-dom
+
+npm i -D @types/react @types/react-dom @vitejs/plugin-react eslint eslint-config-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-refresh prettier vite
